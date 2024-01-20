@@ -1,0 +1,8 @@
+After running test_csv.py, concluded following answers:
+
+"annualized_volatility": 0.09855825077063639,
+"daily_volatility": 0.006258455182393722 
+
+
+Run following post api with file as parameter containing csv file
+http://127.0.0.1:5000/volatility
